@@ -26,8 +26,8 @@ MelonLoader-моды, которые добавляют полноценный �
 
 - **[ZPD](https://github.com/isteelfelix/ZPD)** — The Dreamland of Lady Zombie
 - **[TDSim_RU](https://github.com/isteelfelix/TDSim_RU)** — Trainee Death Simulator
-- **TurretGirls_RU** — Turret Girls
-- **GE_RU** — Golden Era
+- **[TurretGirls_RU](https://github.com/isteelfelix/TurretGirls_RU)** — Turret Girls
+- **[GE_RU](https://github.com/isteelfelix/GE_RU)** — Generation Exile
 
 <div align="center">
 
