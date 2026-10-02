@@ -12,6 +12,14 @@
 
 ---
 
+### 🎮 Сейчас делаю: Dominion Arena
+
+Sci-fi roguelite авто-батлер: собираешь команду, строишь билд между боями и проходишь асинхронный турнир против других игроков.
+
+[![Steam](https://img.shields.io/badge/Steam-Wishlist-171a21?style=flat-square&logo=steam)](https://store.steampowered.com/app/5054900/?utm_source=github&utm_medium=readme&utm_campaign=profile)
+
+---
+
 ### 🤖 AI-инструменты
 
 Инфраструктура для работы с AI-агентами:
