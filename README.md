@@ -3,7 +3,7 @@
 # Привет 👋
 
 **Indie game & mod developer**
-Делаю игры, русские локализации инди-игр и экспериментирую с ИИ в разработке.
+Делаю игры, русские и украинские локализации инди-игр и экспериментирую с ИИ в разработке.
 
 [![Patreon](https://img.shields.io/badge/Patreon-Chieftain51-FF424D?style=flat-square&logo=patreon)](https://patreon.com/Chieftain51)
 [![X](https://img.shields.io/badge/X-@iChieftain51-000000?style=flat-square&logo=x)](https://x.com/iChieftain51)
